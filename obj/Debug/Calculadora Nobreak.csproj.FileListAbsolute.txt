@@ -1,0 +1,9 @@
+C:\Users\paulo\source\repos\Calculadora Nobreak\bin\Debug\Calculadora Nobreak.exe.config
+C:\Users\paulo\source\repos\Calculadora Nobreak\bin\Debug\Calculadora Nobreak.exe
+C:\Users\paulo\source\repos\Calculadora Nobreak\bin\Debug\Calculadora Nobreak.pdb
+C:\Users\paulo\source\repos\Calculadora Nobreak\obj\Debug\Calculadora_Nobreak.Form1.resources
+C:\Users\paulo\source\repos\Calculadora Nobreak\obj\Debug\Calculadora_Nobreak.Properties.Resources.resources
+C:\Users\paulo\source\repos\Calculadora Nobreak\obj\Debug\Calculadora Nobreak.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Calculadora Nobreak\obj\Debug\Calculadora Nobreak.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Calculadora Nobreak\obj\Debug\Calculadora Nobreak.exe
+C:\Users\paulo\source\repos\Calculadora Nobreak\obj\Debug\Calculadora Nobreak.pdb
